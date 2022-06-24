@@ -1,1 +1,1 @@
-Display current directory contents
+README file for Task 6 WELCOME

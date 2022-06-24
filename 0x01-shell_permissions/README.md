@@ -1,1 +1,1 @@
-This is a readme file from shell permission task 17 
+This is a readme file from shell basic task 6 
